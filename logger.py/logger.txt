@@ -1,3 +1,4 @@
 #this file takes care the logging and setting up logging levels
 
+# added the comment to practice the stash command in git
 # this is the logger file
