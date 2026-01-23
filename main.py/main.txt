@@ -1,4 +1,5 @@
 # this is the main file
 
 #adding a new feature - feature1
-sample text file adding to check
+sample text file adding to checkgit
+Added some content on 23/01/2026
