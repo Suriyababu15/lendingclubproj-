@@ -1,2 +1,3 @@
 input.file.path = "/user/......."
 hive.database = retaildb
+input.file.path = "/user/public/inputfile.csv"
