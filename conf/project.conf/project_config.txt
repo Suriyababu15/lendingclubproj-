@@ -1,3 +1,4 @@
 input.file.path = "/user/......."
 hive.database = retaildb
 input.file.path = "/user/public/inputfile.csv"
+"This comment is added from the Visual studio code to check the merge conflict"
