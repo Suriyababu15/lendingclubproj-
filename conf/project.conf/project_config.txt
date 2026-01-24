@@ -1,3 +1,4 @@
 input.file.path = "/user/......."
 hive.database = retaildb
 input.file.path = "/user/public/inputfile.csv"
+"This comment is added from Databricks notebook to check the merge conflict"
